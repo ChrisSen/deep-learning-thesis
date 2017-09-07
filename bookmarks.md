@@ -41,6 +41,6 @@ Prof. Dr. Oliver Niggemann, Fraunhofer-Anwendungszentrum für industrielle Autom
 
 [Wissenschaftlicher Aufsatz](http://dx-16.org/papers/DX-2016_17.pdf)
 
-A Novel Anomaly Detection Algorithm for Hybrid Production Systems based on Deep Learning and Timed Automata
-
 Nemanja Hranisavljevic and Oliver Niggemann and Alexander Maier
+
+>A Novel Anomaly Detection Algorithm for Hybrid Production Systems based on Deep Learning and Timed Automata
