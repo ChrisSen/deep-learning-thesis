@@ -44,3 +44,13 @@ Prof. Dr. Oliver Niggemann, Fraunhofer-Anwendungszentrum für industrielle Autom
 Nemanja Hranisavljevic and Oliver Niggemann and Alexander Maier
 
 >A Novel Anomaly Detection Algorithm for Hybrid Production Systems based on Deep Learning and Timed Automata
+
+### Machine Learning and Deep Learning for IIOT
+
+[Präsentation](https://www.iiconsortium.org/pdf/Machine-Learning-and-Deep-Learning-for-IIoT.pdf)
+
+Chanchal Chatterjee, Industrial Internet Consortium
+
+> ➢ Provide insights on methods and systems for machine learning and deep learning.
+➢ Provide machine/deep learning use cases for IIOT.
+➢ Provide architectures and frameworks for machine/deep learning for IIOT.
